@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658054473501",
+    "project_id": "mechmate-production",
+    "storage_bucket": "mechmate-production.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658054473501:android:87f82fe8fdb06a411c23f4",
+        "android_client_info": {
+          "package_name": "com.mechmate.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKufYzFxJtZjEbW806a1Dg_IbD5R_1JFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
