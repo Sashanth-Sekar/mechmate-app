@@ -1,5 +1,7 @@
 # MechMate
 
+[![CI](https://github.com/Sashanth-Sekar/mechmate-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Sashanth-Sekar/mechmate-app/actions/workflows/ci.yml)
+
 MechMate is a Flutter app for vehicle owners and mechanics. It supports Android,
 iOS, desktop targets, and a browser-based Flutter Web build, with a NestJS
 backend API.
@@ -263,7 +265,4 @@ There are ~40 `withOpacity` deprecation warnings (info level) across the
 codebase. These do not affect functionality and will be addressed in a future
 migration to `withValues(alpha:)`.
 
----
-*CI badge placeholder*
 
-# CI status will be shown here once workflow runs
