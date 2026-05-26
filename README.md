@@ -262,3 +262,6 @@ npm run start:dev
 There are ~40 `withOpacity` deprecation warnings (info level) across the
 codebase. These do not affect functionality and will be addressed in a future
 migration to `withValues(alpha:)`.
+
+---
+*CI badge placeholder*
