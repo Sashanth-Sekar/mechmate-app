@@ -58,3 +58,6 @@ jobs:
       - name: Run backend E2E tests
         working-directory: backend
         run: npm run test:e2e
+
+# BP test
+
