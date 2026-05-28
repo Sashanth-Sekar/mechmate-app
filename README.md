@@ -272,3 +272,6 @@ migration to `withValues(alpha:)`.
 Direct pushes to `main` are blocked. All changes must go through a pull request
 with both `frontend` and `backend` CI checks passing. See
 `.github/workflows/ci.yml` for the CI configuration.
+
+_This section was added to verify the full PR workflow — CI checks, approval
+requirements, and merge._
