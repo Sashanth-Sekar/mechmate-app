@@ -265,4 +265,10 @@ There are ~40 `withOpacity` deprecation warnings (info level) across the
 codebase. These do not affect functionality and will be addressed in a future
 migration to `withValues(alpha:)`.
 
+---
 
+## Branch Protection
+
+Direct pushes to `main` are blocked. All changes must go through a pull request
+with both `frontend` and `backend` CI checks passing. See
+`.github/workflows/ci.yml` for the CI configuration.
